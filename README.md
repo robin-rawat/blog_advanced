@@ -3,7 +3,7 @@ this is a blog webapp with basic blog functionalities
 
 Use a directory & inside directory you can type following commands:
 
-# to initialize
+#to initialize
 1. git init
 
 #to clone project
